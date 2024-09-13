@@ -1,4 +1,4 @@
 # startingc
-This is ME starting.
+This is ME starting out.
 <br>
 Author - Mokksh
